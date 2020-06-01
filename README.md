@@ -29,7 +29,7 @@
 
 ## helpful Links : 
 
-`Scripts and Questions` : 
+`Scripts and Questions` : https://github.com/tijaniabdellatif/BDD_MYSQL/blob/master/Questions.docx
 
 
 
