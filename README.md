@@ -31,5 +31,9 @@
 
 `Scripts and Questions` : https://github.com/tijaniabdellatif/BDD_MYSQL/blob/master/Questions.docx
 
+`SQL RESUME` : https://bytescout.com/blog/20-important-sql-queries.html
 
+`Joining and relations` : https://sql.sh/cours/jointures
+
+`Constraint` : https://www.1keydata.com/fr/sql/sql-constraint.php
 
