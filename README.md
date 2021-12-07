@@ -18,8 +18,6 @@
 ## Requirements : 
 
 * `POWERAMC` `MYSQL WORKBENCH` or `WampServer/phpMyadmin`.
-* Presence in the courses using `Microsoft Teams` in `YOUCODE_Classe1`
-* A live Correction using one of the collegue
 
 ## Timeline and Organisation : 
 
